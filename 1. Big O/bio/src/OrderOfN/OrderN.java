@@ -3,6 +3,8 @@ package OrderOfN;
 import java.util.ArrayList;
 import java.util.List;
 
+// time complexity
+
 public class OrderN {
     public static void main(String[] args) {
 

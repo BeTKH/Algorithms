@@ -4,7 +4,10 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Stack;
 
-public class OrderOfOneMain {
+
+// time complexity
+
+public class OrderOfOne {
 
     public static void main(String[] args) {
 
