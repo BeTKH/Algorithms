@@ -4,7 +4,7 @@ public class logN {
 
     // O(log n) time complexity
 
-    public static void main(String[] args) {
+    public static void main(String [] args) {
 
 
         // binary search
