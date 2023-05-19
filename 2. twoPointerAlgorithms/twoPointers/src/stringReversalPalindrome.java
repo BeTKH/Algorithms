@@ -1,5 +1,3 @@
-package twoPointersTechnique;
-
 public class stringReversalPalindrome {
 
     public static void main(String[] args) {
