@@ -26,15 +26,15 @@ public class findLengthOfSubArray {
         int length = 0;
 
         int left = 0;
-        int current = 1;
+        int currentSum = 0;
 
 
         for ( int right = 0; right < arry_.length; right ++){
 
-            current += arry_[right];
+            currentSum += arry_[right];
 
-            while (current > sum_){
-                current -= arry_[left];
+            while (currentSum > sum_){
+                currentSum -= arry_[left];
                 left ++;
             }
 
