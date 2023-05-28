@@ -1,5 +1,3 @@
-package OrderOfNSquared;
-
 import java.util.Arrays;
 
 public class nSquared {

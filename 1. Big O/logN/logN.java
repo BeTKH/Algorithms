@@ -1,6 +1,4 @@
-package logN;
-
-public class logN {
+public class logN{
 
     // O(log n) time complexity
 
