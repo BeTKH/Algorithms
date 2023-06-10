@@ -82,3 +82,5 @@ fabric.properties
 
 
 *.class
+
+*DS_Store
