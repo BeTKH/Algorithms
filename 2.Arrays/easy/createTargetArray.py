@@ -40,8 +40,6 @@ def createTargetArray(nums, index):
         target.insert(i, n)
     return target
 
-
-
 nums1 = [0,1,2,3,4]
 index1 = [0,1,2,2,1]
 
